@@ -1,0 +1,22 @@
+{
+  "name": "appwrite-stats",
+  "version": "0.0.1",
+  "description": "Appwrite Statistics collection demo",
+  "main": "index.js",
+  "authors": {
+    "name": "Iniubong Obonguko",
+    "email": "iniubongobonguko2018@gmail.com"
+  },
+  "repository": "/appwrite-stats",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "appwrite": "^10.1.0"
+  }
+}
